@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  background-color: rgb(83, 82, 82);
+  color: whitesmoke;
+}
+input {
+  margin: 5px;
+}
+form {
+  margin: 50px;
+}
